@@ -45,6 +45,13 @@ Komaki-shi, Aichi-ken, Japan
 
 - Translated and proofread technical documents for warehouse and factory material handling systems, including software UI content
 
+## Other Projects
+
+- Gallery [kushikino](https://kushikino.com), which I created to practice web development skills and to showcase my photography
+- [Research paper]({{site.baseurl}}{% post_url 2019-07-21-organ %}) on automatic generation of optimal musical instrument fingerings
+  - Modeled possible fingerings as a cost graph and used a shortest-path algorithm to find optimal fingerings
+  - Used Python for scripting
+
 ## Education
 
 **Bachelor of Science** in **Computer Science**  
