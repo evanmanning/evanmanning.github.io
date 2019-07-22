@@ -5,7 +5,7 @@ title: Evan Manning
 
 # Evan Manning
 
-I'm a Software engineer with 3+ years of industry experience. I've worked primarily with technologies in the Java ecosystem, but I've also enjoyed doing projects using languages like Python and JavaScript/HTML/CSS, and I'm eager to learn and grow.
+I'm a software engineer with 3+ years of industry experience. I've worked primarily with technologies in the Java ecosystem, but I've also enjoyed doing projects using languages like Python and JavaScript/HTML/CSS, and I'm eager to learn and grow.
 
 I also have experience in JA>EN translation, and I have substantial living experience in Japan, including as an exchange student at a Japanese high school for an academic year.
 
