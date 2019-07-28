@@ -16,7 +16,7 @@ FamilySearch
 2015–Present (3 Years 9 Months)  
 Lehi, Utah, USA
 
-- Member of team responsible for full development lifecycle of several back-end services: design, implementation, automated testing, deployment, monitoring, maintenance
+- Responsible for full development lifecycle of several back-end services: design, implementation, automated testing, deployment, monitoring, maintenance
 - Develop with Java, Maven, Git, Spring Framework, Spring Boot, Hibernate, PostgreSQL, Splunk
 - Use AWS Elastic Beanstalk, EC2, SNS, SQS, S3
 - Design REST APIs
@@ -28,8 +28,8 @@ Proofpoint
 2014 Summer (3 Months)  
 Draper, Utah, USA
 
-- Member of team developing enterprise file governance solution
-- Developed back-end functionality in Java and front-end web UI using JavaScript/HTML/CSS
+- Developed features for enterprise file governance solution
+- Worked in full stack: Java back end and JavaScript/HTML/CSS front end
 
 **Japanese–English Translator**  
 Freelance  
