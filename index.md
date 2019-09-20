@@ -5,7 +5,7 @@ title: Evan Manning
 
 # Evan Manning
 
-I'm a software engineer with 3+ years of industry experience. I've worked primarily with technologies in the Java ecosystem, but I've also enjoyed doing projects using languages like Python, JavaScript, and HTML/CSS, and I'm eager to learn and grow.
+I'm a software engineer with 4 years of industry experience. I've worked primarily with technologies in the Java ecosystem, but I've also enjoyed doing projects using languages like Python, JavaScript, and HTML/CSS, and I'm eager to learn and grow.
 
 I also have experience in JA>EN translation, and I have substantial living experience in Japan, including as an exchange student at a Japanese high school for an academic year.
 
@@ -13,7 +13,7 @@ I also have experience in JA>EN translation, and I have substantial living exper
 
 **Software Engineer**  
 FamilySearch  
-2015–Present (3 Years 9 Months)  
+2015–Present (3 Years 11 Months)  
 Lehi, Utah, USA
 
 - Responsible for full development lifecycle of several back-end services: design, implementation, automated testing, deployment, monitoring, maintenance
