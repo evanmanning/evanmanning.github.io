@@ -5,27 +5,28 @@ title: Evan Manning
 
 # Evan Manning
 
-I'm a software engineer with 4 years of industry experience. I've worked primarily with technologies in the Java ecosystem, but I've also enjoyed doing projects using languages like Python, JavaScript, and HTML/CSS, and I'm eager to learn and grow.
+I'm a software engineer with 4+ years of industry experience, focused on full ownership of back-end service and microservice development: design, implementation, automated testing, deployment, monitoring, and maintenance.
 
-I also have experience in JA>EN translation, and I have substantial living experience in Japan, including as an exchange student at a Japanese high school for an academic year.
+I've worked primarily with technologies in the Java ecosystem, but I also love others like Python, and I love learning.
+
+I have work experience in Japanese-to-English translation, and I have substantial living experience in Japan, including as an exchange student at a Japanese high school for an academic year.
 
 ## Work Experience
 
 **Software Engineer**  
 FamilySearch  
-2015–Present (3 Years 11 Months)  
+October 2015–Present (4 Years)  
 Lehi, Utah, USA
 
-- Responsible for full development lifecycle of several back-end services: design, implementation, automated testing, deployment, monitoring, maintenance
-- Develop with Java, Maven, Git, Spring Framework, Spring Boot, Hibernate, PostgreSQL, Splunk
-- Use AWS Elastic Beanstalk, EC2, SNS, SQS, S3
-- Design REST APIs
-- Build and maintain microservices
-- Work in a continuous delivery environment with automated validation and deployment pipeline
+- Work with product management and API consumers to refine requirements and plan and prioritize work
+- Build and maintain scalable, high-traffic back-end services and microservices
+- Design, document, and implement REST APIs
+- Develop with Java, Spring Boot, AWS (Elastic Beanstalk, EC2, SQS, S3), Hibernate, PostgreSQL, Maven, Git
+- Focus on automated validation, enabling continuous deployment to production environment
 
 **Software Engineer Intern**  
 Proofpoint  
-2014 Summer (3 Months)  
+Summer 2014 (3 Months)  
 Draper, Utah, USA
 
 - Developed features for enterprise file governance solution
@@ -40,10 +41,11 @@ Varied Schedule
 
 **Japanese–English Translator Intern**  
 Daifuku  
-2012 Summer (3 Months)  
+Summer 2012 (3 Months)  
 Komaki-shi, Aichi-ken, Japan
 
-- Translated and proofread technical documents for warehouse and factory material handling systems, including software UI content
+- Translated and proofread technical documents for warehouse and factory material handling systems
+- Translated and proofread system control software UI content
 
 ## Other Projects
 
